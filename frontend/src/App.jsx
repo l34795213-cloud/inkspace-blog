@@ -3,7 +3,7 @@ import DOMPurify from 'dompurify'
 import './App.css'
 import Login from './login.jsx'
 import AdminDashboard from './AdminDashboard.jsx'
-import Comments from './comments.jsx'
+import Comments from './Comments.jsx'
 
 const SERVER = 'http://localhost:5000'
 const categories = ['All', 'Development', 'Lifestyle', 'Design']
